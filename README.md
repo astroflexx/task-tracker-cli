@@ -8,7 +8,10 @@
 
 <!-- ABOUT THE PROJECT -->
 
-![Folder Page Screenshot][folder-screenshot]
+<!-- ![Folder Page Screenshot][folder-screenshot] -->
+<p align="center">
+  <img src="usage.png" alt="Folder Page Screenshot" />
+</p>
 
 ## About The Project
 
@@ -78,4 +81,4 @@ To get a local copy up and running follow these steps.
     task-cli delete 1
     ```
 
-[folder-screenshot]: usage.png 
+<!-- [folder-screenshot]: usage.png  -->
