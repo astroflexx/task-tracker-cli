@@ -1,0 +1,5 @@
+#!/bin/bash
+
+JAR_PATH="/home/astroflexx/task-tracker-cli/target/task-tracker-cli-1.0-SNAPSHOT.jar"
+
+java -jar "$JAR_PATH" "$@"
