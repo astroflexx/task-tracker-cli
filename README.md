@@ -11,10 +11,10 @@
 <!-- ![Folder Page Screenshot][folder-screenshot] -->
 <p align="center">
    <p align="center">
-      <b><a href="https://github.com/astroflexx/task-tracker-cli" >Task Tracker CLI</a></b>
+      <b><a href="https://roadmap.sh/projects/task-tracker" >roadmap.sh/projects/task-tracker</a></b>
    </p>
    <p align="center">
-      <img src="usage.png" alt="Folder Page Screenshot" />
+      <img src="usage.png" alt="Usage Screenshot" />
    </p>
 </p>
 
