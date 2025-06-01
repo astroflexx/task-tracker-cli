@@ -10,7 +10,12 @@
 
 <!-- ![Folder Page Screenshot][folder-screenshot] -->
 <p align="center">
-  <img src="usage.png" alt="Folder Page Screenshot" />
+   <p align="center">
+      <b><a href="https://github.com/astroflexx/task-tracker-cli" >Task Tracker CLI</a></b>
+   </p>
+   <p align="center">
+      <img src="usage.png" alt="Folder Page Screenshot" />
+   </p>
 </p>
 
 ## About The Project
