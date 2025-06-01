@@ -27,7 +27,7 @@ public class TaskTracker {
                 .setPrettyPrinting()
                 .create();
         allowedOperations = new ArrayList<>(
-                Arrays.asList("add", "update", "delete", "list [todo|in-progress|done]", "mark-todo", "mark-in-progress", "mark-done"));
+                Arrays.asList("add", "update", "delete", "list", "mark-todo", "mark-in-progress", "mark-done"));
     }
 
     // simple Task class (Task type) to represent a task
